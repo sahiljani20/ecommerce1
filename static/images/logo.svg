@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="268.57143"
+     inkscape:cy="445.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.87788391px;line-height:1.25;font-family:'Samyak Malayalam';-inkscape-font-specification:'Samyak Malayalam';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42194709"
+       x="-18.48513"
+       y="147.04332"
+       id="text817"
+       transform="matrix(0.87799774,-0.18848092,0.23372982,1.08878,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="-18.48513"
+         y="147.04332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.01384735px;font-family:Purisa;-inkscape-font-specification:Purisa;fill:#ff0030;fill-opacity:1;stroke-width:0.42194709">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.87788391px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42194709"
+       x="20.456614"
+       y="148.7756"
+       id="text821"
+       transform="matrix(0.87799773,-0.18848092,0.23372983,1.08878,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="20.456614"
+         y="148.7756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.50692368px;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC';stroke-width:0.42194709">hoper</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion825"><rect
+           id="rect827"
+           width="265.71429"
+           height="82.85714"
+           x="-411.42856"
+           y="416.80539" /></flowRegion><flowPara
+         id="flowPara829"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot831"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion833"><rect
+           id="rect835"
+           width="522.85712"
+           height="162.85715"
+           x="-1097.1428"
+           y="345.37683" /></flowRegion><flowPara
+         id="flowPara837"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-5.9453969"
+       y="197.27238"
+       id="text841"
+       transform="rotate(-12.115878)"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="-5.9453969"
+         y="197.27238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:Purisa;-inkscape-font-specification:Purisa;fill:#921700;fill-opacity:1;stroke-width:0.26458332">men's &amp; women's</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+{% comment %} {% extends 'base.html' %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+<h2>Loytfuygihohujghgjghkui</h2>
+<form method="post"  >
+  {% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit">Log</button>
+</form>
+{% endblock %} {% endcomment %}
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+	<title>Login V17</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="{% static 'images/icons/favicon.ico' %}"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'fonts/Linearicons-Free-v1.0.0/icon-font.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/animate/animate.css' %}">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/css-hamburgers/hamburgers.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/animsition/css/animsition.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/select2/select2.min.css' %}">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/daterangepicker/daterangepicker.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'css/util.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
+<!--===============================================================================================-->
+</head>
+<body style="background-color: #f2f2f2;">
+	
+
+	
+ 	{% block content %}
+	
+	<center>
+  
+		<div style="height: 50px; width:1200px;">
+				<span>
+					<ac style="font-size: 20px; margin: 412px; padding:67px;" >Account Login</ac>
+				</span>	
+		</div>
+
+		<div style="height:1000px; width:600px;float: left; margin-left: 290px;">
+				<img src="{% static 'images/bg-01.jpg' %}" style="width:587px;">
+		</div>
+		<div style="height: 1000px; width:500px; background-color:#f2f2f2;float: right; margin-right: 445px;">
+			<div class="limiter">
+				<div class="container-login100">
+					<div class="wrap-login100" style="background-color:#f2f2f2;margin-top:-300px;">
+						<form method="post" style="margin-top: -296px; font-size:16px; width: 100%;" class="login100-form validate-form">
+							{% csrf_token %}
+							{{ form.as_p }}
+							<div class="w-full text-center" style="background-color: #00ad5f;margin-left: 96px; margin-top:40px; width: 158px; height: 26px; font-weight: bolder; border-radius: 10px;">
+								<button type="submit"><a class="txt3">
+									Sign in
+									</a>
+								</button>		
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+	</center>
+
+	{% endblock %}
+	
+	
+
+
+
+
+
+	
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/jquery/jquery-3.2.1.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/animsition/js/animsition.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/bootstrap/js/popper.js' %}"></script>
+	<script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/select2/select2.min.js' %}"></script>
+	<script>
+		$(".selection-2").select2({
+			minimumResultsForSearch: 20,
+			dropdownParent: $('#dropDownSelect1')
+		});
+	</script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/daterangepicker/moment.min.js' %}"></script>
+	<script src="{% static 'vendor/daterangepicker/daterangepicker.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/countdowntime/countdowntime.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'js/main.js' %}"></script>
+
+</body>
+</center>
+</html>

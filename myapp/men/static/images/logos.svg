@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="112mm"
+   height="46mm"
+   viewBox="0 0 112 46"
+   version="1.1"
+   id="svg938"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="logos.svg">
+  <defs
+     id="defs932" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="310.80947"
+     inkscape:cy="58.851371"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata935">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-251)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.94032478px;line-height:1.25;font-family:'Samyak Malayalam';-inkscape-font-specification:'Samyak Malayalam';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24850813"
+       x="-10.389892"
+       y="272.83847"
+       id="text817"
+       transform="matrix(0.98104741,-0.02344638,0.03472987,1.0184887,0,0)"
+       inkscape:export-xdpi="25.932665"
+       inkscape:export-ydpi="25.932665"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="-10.389892"
+         y="272.83847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.71356583px;font-family:Purisa;-inkscape-font-specification:Purisa;fill:#ff0030;fill-opacity:1;stroke-width:0.24850813">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.94032478px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24850813"
+       x="12.545068"
+       y="273.85873"
+       id="text821"
+       transform="matrix(0.98104741,-0.02344639,0.03472988,1.0184887,0,0)"
+       inkscape:export-xdpi="25.932665"
+       inkscape:export-ydpi="25.932665"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="12.545068"
+         y="273.85873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.85678291px;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC';stroke-width:0.24850813">hoper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.23311424px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15582785"
+       x="-5.9170499"
+       y="320.80698"
+       id="text841"
+       transform="matrix(1.0924797,-0.02610954,0.03118744,0.91460346,0,0)"
+       inkscape:export-xdpi="25.932665"
+       inkscape:export-ydpi="25.932665"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="-5.9170499"
+         y="320.80698"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97298241px;font-family:Purisa;-inkscape-font-specification:Purisa;fill:#921700;fill-opacity:1;stroke-width:0.15582785">men's &amp; women's</tspan></text>
+  </g>
+</svg>
